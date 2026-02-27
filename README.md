@@ -14,4 +14,4 @@ A responsive Music Player built using HTML, CSS, and JavaScript.
 - JavaScript
 ## 📸 Preview
 
-![Music Player Screenshot](screenshot.png)
+![Music Player Screenshot](Screenshot.png.png)
